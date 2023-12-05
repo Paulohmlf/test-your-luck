@@ -17,6 +17,6 @@ while x>0:
     numeros_escolhidos.append(r2)
     x-=1
 pa= (acertos/5)*100
-print(f"a porcentagem de acerto foi de {acertos}%")
+print(f"a porcentagem de acerto foi de {pa}%")
 print(f"esses foram os numeros da mega cena:{aleatorios}")
 print(f"esses foram os numeros escolhidos por você:{numeros_escolhidos}")
