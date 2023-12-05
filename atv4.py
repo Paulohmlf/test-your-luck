@@ -7,7 +7,6 @@ x=0
 acertos=0
 numeros_escolhidos=[]
 while x<5:
-    print(".")
     x+=1
     r1= random.randint(0,10)
     aleatorios.append(r1)
